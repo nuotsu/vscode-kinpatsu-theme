@@ -1,0 +1,21 @@
+{
+  "name": "nuotsu-theme",
+  "displayName": "nuotsu theme",
+  "description": "A theme made by and for nuotsu.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "nuotsu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nuotsu-color-theme.json"
+      }
+    ]
+  }
+}
