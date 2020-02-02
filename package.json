@@ -1,7 +1,8 @@
 {
-  "name": "nuotsu-theme",
-  "displayName": "nuotsu theme",
+  "name": "vscode-kinpatsu-theme",
+  "displayName": "Kinpatsu Theme",
   "description": "A theme made by and for nuotsu.",
+  "publisher": "nuotsu",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.41.0"
