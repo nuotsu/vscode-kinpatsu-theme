@@ -6,4 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+- Initial release (v0.0.1).
+
+## [0.0.2] - 2020-02-02
+### Fixed
+- Array brackets in JSON changed from white to darker color.
