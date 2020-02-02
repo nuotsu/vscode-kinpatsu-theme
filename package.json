@@ -2,6 +2,10 @@
   "name": "vscode-kinpatsu-theme",
   "displayName": "Kinpatsu Theme",
   "description": "An orange theme made by and for nuotsu.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nuotsu/vscode-kinpatsu-theme.git"
+  },
   "publisher": "nuotsu",
   "version": "0.0.1",
   "engines": {
@@ -15,7 +19,7 @@
       {
         "label": "nuotsu",
         "uiTheme": "vs-dark",
-        "path": "./themes/nuotsu-color-theme.json"
+        "path": "./themes/kinpatsu-color-theme.json"
       }
     ]
   }
